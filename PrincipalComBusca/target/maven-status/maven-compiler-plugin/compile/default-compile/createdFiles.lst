@@ -1,0 +1,12 @@
+com\mycompany\principalcombusca\Classificavel.class
+com\mycompany\principalcombusca\BagOfPrimitives.class
+com\mycompany\principalcombusca\CalculadoraDeTempo.class
+com\mycompany\principalcombusca\TituloOmdb.class
+com\mycompany\principalcombusca\Filme.class
+com\mycompany\principalcombusca\FiltroRecomendacao.class
+com\mycompany\principalcombusca\PrincipalComBusca.class
+com\mycompany\principalcombusca\Episodio.class
+com\mycompany\principalcombusca\ErroDeConversaoDeAnoException.class
+com\mycompany\principalcombusca\Nomes.class
+com\mycompany\principalcombusca\Serie.class
+com\mycompany\principalcombusca\Titulo.class
